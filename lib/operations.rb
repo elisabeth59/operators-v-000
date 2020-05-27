@@ -1,8 +1,5 @@
 def unsafe?(speed)
-	if speed == 79
-		puts true
-	else speed == 35
-		puts true	
+	
 end
 
 
